@@ -1,0 +1,4 @@
+typeOfTransaction,resellerId,recipientMobileNo,paymentMethod,amount,comment
+AIRTIME STOCK,SUB-DIST1-2,,cash,12,comment
+AIRTIME STOCK,SUB-DIST1-2,,cash,10,comment
+AIRTIME STOCK,SUB-DIST1-2,,cash,15,comment	

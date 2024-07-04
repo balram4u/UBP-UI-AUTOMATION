@@ -1,0 +1,4 @@
+typeOfTransaction,recipientMobileNo,anonymousId,amount,paymentMethod,comment
+POSTPAID,923451234566,,10,Cash,test
+POSTPAID,923451234566,,20,Cash,test
+POSTPAID,923451234568,,30,Cash,test

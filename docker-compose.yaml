@@ -1,0 +1,9 @@
+version: '1.0'
+services:
+  gpautomation:
+    build: ./
+    # image: automation 
+    volumes:
+      - /var/seamless/log/ubp-ui-automation/cypress/reports/:/ubp-ui-automation/cypress/reports/
+    stdin_open: true
+    tty: true
